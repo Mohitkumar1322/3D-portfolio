@@ -193,14 +193,14 @@ const Navbar = () => {
             </GithubButton>
 
             <Linkedin
-            href={Bio.github}
+            href={Bio.linkedin}
               target="_Blank"
               style={{
                 background: theme.primary,
                 color: theme.text_primary,
               }}
             >
-              Github Profile
+              Linkedin Profile
             </Linkedin>
             
           </MobileMenu>
